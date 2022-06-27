@@ -133,3 +133,9 @@ a:hover {
 .footer :last-child {
   margin-right: 0px;
 }
+
+.space {
+  display: flex;
+    justify-content: space-between;
+
+}
