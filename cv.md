@@ -4,7 +4,7 @@
 ## Contacts:
 
 - **Phone:** +375 29 284-32-85
-- **Email:** rirrike@gmail.com
+- **Email:** evgeny.vorobey1@gmail.com
 - **Telegram:** @rirrike
 - **GitHub:** [rirrike](https://github.com/rirrike)
 
@@ -18,26 +18,20 @@ I lead an active lifestyle.
 
 ## Skills:
 
+- Python, JavaScript
+- Experience with: MSSQL, PostgreSQL, MySQL
+- Microsoft Azure
+- RabbitMQ
+- Postman
+- Windows, RedHat, CentOS, Ubuntu, Debian, Mac OS
 - Active Directory
-- Exchange
-- MSSQL
-- Jira
+- Exchange, Zimbra
+- Git, GitHub
+- Jira, Confluence
 - Computer netwotks
 - VMware vSphere: VMware ESXI, VMware vCenter
-- Microsoft Azure
-- Linux: RedHat, CentOS, Ubuntu, Debian
-- Mac OS (used only on virtual hosts)
-- Git, GitHub
-- P-CAD
 - AutoCAD, CorelDRAW
 
-## Code Example:
-
-```
-function multiply(a, b){
-return  a * b
-}
-```
 
 ## Work experience:
 
@@ -58,5 +52,7 @@ return  a * b
   - He took a course on testing software products of the Banuba Development company, participated in an invited beta testing of the Game Stream software.
 
 ## Language:
+
+Belorussian- native
 
 English level- A2
